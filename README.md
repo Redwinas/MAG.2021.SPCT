@@ -21,4 +21,4 @@ To view detailed classes documentation refer to [Classes Docs](Docs/README.md)
 ## Author
 Edvinas Repečka KTU 2021
 ## License
-This package is licensed under MIT for more information see the [License](License) file.
+This package is licensed under MIT for more information see the [License](LICENSE) file.
